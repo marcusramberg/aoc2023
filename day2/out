@@ -1,0 +1,400 @@
+info: bag main.main.Bag{ .id = 1, .red = 15, .green = 21, .blue = 4 } 
+
+warning: bag 1 too big
+
+info: bag main.main.Bag{ .id = 2, .red = 25, .green = 8, .blue = 38 } 
+
+warning: bag 2 too big
+
+info: bag main.main.Bag{ .id = 3, .red = 17, .green = 51, .blue = 18 } 
+
+warning: bag 3 too big
+
+info: bag main.main.Bag{ .id = 4, .red = 29, .green = 23, .blue = 48 } 
+
+warning: bag 4 too big
+
+info: bag main.main.Bag{ .id = 5, .red = 40, .green = 45, .blue = 6 } 
+
+warning: bag 5 too big
+
+info: bag main.main.Bag{ .id = 6, .red = 12, .green = 26, .blue = 14 } 
+
+warning: bag 6 too big
+
+info: bag main.main.Bag{ .id = 7, .red = 13, .green = 9, .blue = 6 } 
+
+warning: bag 7 too big
+
+info: bag main.main.Bag{ .id = 8, .red = 37, .green = 39, .blue = 32 } 
+
+warning: bag 8 too big
+
+info: bag main.main.Bag{ .id = 9, .red = 31, .green = 19, .blue = 79 } 
+
+warning: bag 9 too big
+
+info: bag main.main.Bag{ .id = 10, .red = 10, .green = 45, .blue = 23 } 
+
+warning: bag 10 too big
+
+info: bag main.main.Bag{ .id = 11, .red = 9, .green = 10, .blue = 16 } 
+
+warning: bag 11 too big
+
+info: bag main.main.Bag{ .id = 12, .red = 37, .green = 32, .blue = 50 } 
+
+warning: bag 12 too big
+
+info: bag main.main.Bag{ .id = 13, .red = 19, .green = 14, .blue = 8 } 
+
+warning: bag 13 too big
+
+info: bag main.main.Bag{ .id = 14, .red = 41, .green = 16, .blue = 27 } 
+
+warning: bag 14 too big
+
+info: bag main.main.Bag{ .id = 15, .red = 44, .green = 2, .blue = 21 } 
+
+warning: bag 15 too big
+
+info: bag main.main.Bag{ .id = 16, .red = 54, .green = 4, .blue = 32 } 
+
+warning: bag 16 too big
+
+info: bag main.main.Bag{ .id = 17, .red = 4, .green = 21, .blue = 4 } 
+
+warning: bag 17 too big
+
+info: bag main.main.Bag{ .id = 18, .red = 23, .green = 21, .blue = 22 } 
+
+warning: bag 18 too big
+
+info: bag main.main.Bag{ .id = 19, .red = 19, .green = 26, .blue = 3 } 
+
+warning: bag 19 too big
+
+info: bag main.main.Bag{ .id = 20, .red = 46, .green = 9, .blue = 62 } 
+
+warning: bag 20 too big
+
+info: bag main.main.Bag{ .id = 21, .red = 12, .green = 11, .blue = 22 } 
+
+warning: bag 21 too big
+
+info: bag main.main.Bag{ .id = 22, .red = 37, .green = 34, .blue = 12 } 
+
+warning: bag 22 too big
+
+info: bag main.main.Bag{ .id = 23, .red = 36, .green = 45, .blue = 48 } 
+
+warning: bag 23 too big
+
+info: bag main.main.Bag{ .id = 24, .red = 19, .green = 46, .blue = 34 } 
+
+warning: bag 24 too big
+
+info: bag main.main.Bag{ .id = 25, .red = 11, .green = 54, .blue = 13 } 
+
+warning: bag 25 too big
+
+info: bag main.main.Bag{ .id = 26, .red = 28, .green = 33, .blue = 18 } 
+
+warning: bag 26 too big
+
+info: bag main.main.Bag{ .id = 27, .red = 3, .green = 10, .blue = 16 } 
+
+warning: bag 27 too big
+
+info: bag main.main.Bag{ .id = 28, .red = 46, .green = 45, .blue = 31 } 
+
+warning: bag 28 too big
+
+info: bag main.main.Bag{ .id = 29, .red = 26, .green = 59, .blue = 43 } 
+
+warning: bag 29 too big
+
+info: bag main.main.Bag{ .id = 30, .red = 63, .green = 19, .blue = 79 } 
+
+warning: bag 30 too big
+
+info: bag main.main.Bag{ .id = 31, .red = 49, .green = 10, .blue = 33 } 
+
+warning: bag 31 too big
+
+info: bag main.main.Bag{ .id = 32, .red = 47, .green = 35, .blue = 18 } 
+
+warning: bag 32 too big
+
+info: bag main.main.Bag{ .id = 33, .red = 3, .green = 9, .blue = 58 } 
+
+warning: bag 33 too big
+
+info: bag main.main.Bag{ .id = 34, .red = 4, .green = 17, .blue = 26 } 
+
+warning: bag 34 too big
+
+info: bag main.main.Bag{ .id = 35, .red = 28, .green = 1, .blue = 10 } 
+
+warning: bag 35 too big
+
+info: bag main.main.Bag{ .id = 36, .red = 24, .green = 24, .blue = 20 } 
+
+warning: bag 36 too big
+
+info: bag main.main.Bag{ .id = 37, .red = 58, .green = 8, .blue = 33 } 
+
+warning: bag 37 too big
+
+info: bag main.main.Bag{ .id = 38, .red = 20, .green = 34, .blue = 15 } 
+
+warning: bag 38 too big
+
+info: bag main.main.Bag{ .id = 39, .red = 11, .green = 12, .blue = 35 } 
+
+warning: bag 39 too big
+
+info: bag main.main.Bag{ .id = 40, .red = 65, .green = 33, .blue = 32 } 
+
+warning: bag 40 too big
+
+info: bag main.main.Bag{ .id = 41, .red = 13, .green = 13, .blue = 1 } 
+
+warning: bag 41 too big
+
+info: bag main.main.Bag{ .id = 42, .red = 30, .green = 41, .blue = 48 } 
+
+warning: bag 42 too big
+
+info: bag main.main.Bag{ .id = 43, .red = 39, .green = 13, .blue = 11 } 
+
+warning: bag 43 too big
+
+info: bag main.main.Bag{ .id = 44, .red = 17, .green = 6, .blue = 54 } 
+
+warning: bag 44 too big
+
+info: bag main.main.Bag{ .id = 45, .red = 1, .green = 35, .blue = 22 } 
+
+warning: bag 45 too big
+
+info: bag main.main.Bag{ .id = 46, .red = 10, .green = 17, .blue = 13 } 
+
+warning: bag 46 too big
+
+info: bag main.main.Bag{ .id = 47, .red = 33, .green = 16, .blue = 13 } 
+
+warning: bag 47 too big
+
+info: bag main.main.Bag{ .id = 48, .red = 49, .green = 2, .blue = 33 } 
+
+warning: bag 48 too big
+
+info: bag main.main.Bag{ .id = 49, .red = 30, .green = 32, .blue = 55 } 
+
+warning: bag 49 too big
+
+info: bag main.main.Bag{ .id = 50, .red = 21, .green = 36, .blue = 37 } 
+
+warning: bag 50 too big
+
+info: bag main.main.Bag{ .id = 51, .red = 22, .green = 24, .blue = 6 } 
+
+warning: bag 51 too big
+
+info: bag main.main.Bag{ .id = 52, .red = 2, .green = 31, .blue = 13 } 
+
+warning: bag 52 too big
+
+info: bag main.main.Bag{ .id = 53, .red = 29, .green = 29, .blue = 28 } 
+
+warning: bag 53 too big
+
+info: bag main.main.Bag{ .id = 54, .red = 19, .green = 14, .blue = 18 } 
+
+warning: bag 54 too big
+
+info: bag main.main.Bag{ .id = 55, .red = 11, .green = 1, .blue = 25 } 
+
+warning: bag 55 too big
+
+info: bag main.main.Bag{ .id = 56, .red = 19, .green = 16, .blue = 22 } 
+
+warning: bag 56 too big
+
+info: bag main.main.Bag{ .id = 57, .red = 13, .green = 38, .blue = 49 } 
+
+warning: bag 57 too big
+
+info: bag main.main.Bag{ .id = 58, .red = 40, .green = 6, .blue = 14 } 
+
+warning: bag 58 too big
+
+info: bag main.main.Bag{ .id = 59, .red = 39, .green = 75, .blue = 42 } 
+
+warning: bag 59 too big
+
+info: bag main.main.Bag{ .id = 60, .red = 20, .green = 37, .blue = 47 } 
+
+warning: bag 60 too big
+
+info: bag main.main.Bag{ .id = 61, .red = 6, .green = 41, .blue = 54 } 
+
+warning: bag 61 too big
+
+info: bag main.main.Bag{ .id = 62, .red = 49, .green = 77, .blue = 17 } 
+
+warning: bag 62 too big
+
+info: bag main.main.Bag{ .id = 63, .red = 10, .green = 19, .blue = 22 } 
+
+warning: bag 63 too big
+
+info: bag main.main.Bag{ .id = 64, .red = 24, .green = 8, .blue = 13 } 
+
+warning: bag 64 too big
+
+info: bag main.main.Bag{ .id = 65, .red = 34, .green = 24, .blue = 10 } 
+
+warning: bag 65 too big
+
+info: bag main.main.Bag{ .id = 66, .red = 7, .green = 31, .blue = 18 } 
+
+warning: bag 66 too big
+
+info: bag main.main.Bag{ .id = 67, .red = 21, .green = 30, .blue = 17 } 
+
+warning: bag 67 too big
+
+info: bag main.main.Bag{ .id = 68, .red = 8, .green = 18, .blue = 12 } 
+
+warning: bag 68 too big
+
+info: bag main.main.Bag{ .id = 69, .red = 21, .green = 19, .blue = 8 } 
+
+warning: bag 69 too big
+
+info: bag main.main.Bag{ .id = 70, .red = 4, .green = 15, .blue = 39 } 
+
+warning: bag 70 too big
+
+info: bag main.main.Bag{ .id = 71, .red = 7, .green = 2, .blue = 33 } 
+
+warning: bag 71 too big
+
+info: bag main.main.Bag{ .id = 72, .red = 5, .green = 9, .blue = 62 } 
+
+warning: bag 72 too big
+
+info: bag main.main.Bag{ .id = 73, .red = 20, .green = 31, .blue = 43 } 
+
+warning: bag 73 too big
+
+info: bag main.main.Bag{ .id = 74, .red = 22, .green = 3, .blue = 33 } 
+
+warning: bag 74 too big
+
+info: bag main.main.Bag{ .id = 75, .red = 32, .green = 8, .blue = 4 } 
+
+warning: bag 75 too big
+
+info: bag main.main.Bag{ .id = 76, .red = 26, .green = 1, .blue = 27 } 
+
+warning: bag 76 too big
+
+info: bag main.main.Bag{ .id = 77, .red = 14, .green = 31, .blue = 42 } 
+
+warning: bag 77 too big
+
+info: bag main.main.Bag{ .id = 78, .red = 7, .green = 1, .blue = 11 } 
+
+info: bag main.main.Bag{ .id = 79, .red = 2, .green = 7, .blue = 16 } 
+
+warning: bag 79 too big
+
+info: bag main.main.Bag{ .id = 80, .red = 44, .green = 22, .blue = 19 } 
+
+warning: bag 80 too big
+
+info: bag main.main.Bag{ .id = 81, .red = 17, .green = 20, .blue = 11 } 
+
+warning: bag 81 too big
+
+info: bag main.main.Bag{ .id = 82, .red = 21, .green = 39, .blue = 24 } 
+
+warning: bag 82 too big
+
+info: bag main.main.Bag{ .id = 83, .red = 12, .green = 6, .blue = 19 } 
+
+warning: bag 83 too big
+
+info: bag main.main.Bag{ .id = 84, .red = 2, .green = 4, .blue = 21 } 
+
+warning: bag 84 too big
+
+info: bag main.main.Bag{ .id = 85, .red = 5, .green = 18, .blue = 39 } 
+
+warning: bag 85 too big
+
+info: bag main.main.Bag{ .id = 86, .red = 36, .green = 14, .blue = 5 } 
+
+warning: bag 86 too big
+
+info: bag main.main.Bag{ .id = 87, .red = 9, .green = 8, .blue = 41 } 
+
+warning: bag 87 too big
+
+info: bag main.main.Bag{ .id = 88, .red = 30, .green = 53, .blue = 51 } 
+
+warning: bag 88 too big
+
+info: bag main.main.Bag{ .id = 89, .red = 37, .green = 8, .blue = 41 } 
+
+warning: bag 89 too big
+
+info: bag main.main.Bag{ .id = 90, .red = 29, .green = 15, .blue = 18 } 
+
+warning: bag 90 too big
+
+info: bag main.main.Bag{ .id = 91, .red = 25, .green = 49, .blue = 17 } 
+
+warning: bag 91 too big
+
+info: bag main.main.Bag{ .id = 92, .red = 49, .green = 27, .blue = 40 } 
+
+warning: bag 92 too big
+
+info: bag main.main.Bag{ .id = 93, .red = 2, .green = 21, .blue = 22 } 
+
+warning: bag 93 too big
+
+info: bag main.main.Bag{ .id = 94, .red = 32, .green = 3, .blue = 20 } 
+
+warning: bag 94 too big
+
+info: bag main.main.Bag{ .id = 95, .red = 32, .green = 33, .blue = 16 } 
+
+warning: bag 95 too big
+
+info: bag main.main.Bag{ .id = 96, .red = 21, .green = 23, .blue = 25 } 
+
+warning: bag 96 too big
+
+info: bag main.main.Bag{ .id = 97, .red = 34, .green = 20, .blue = 12 } 
+
+warning: bag 97 too big
+
+info: bag main.main.Bag{ .id = 98, .red = 29, .green = 25, .blue = 3 } 
+
+warning: bag 98 too big
+
+info: bag main.main.Bag{ .id = 99, .red = 12, .green = 31, .blue = 37 } 
+
+warning: bag 99 too big
+
+info: bag main.main.Bag{ .id = 100, .red = 42, .green = 54, .blue = 4 } 
+
+warning: bag 100 too big
+
+info: 78
+

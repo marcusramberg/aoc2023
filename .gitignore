@@ -1,0 +1,7 @@
+zig-out
+zig-cache
+input.txt
+sample.txt
+sample
+input
+node_modules/
